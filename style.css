@@ -319,3 +319,17 @@ a:hover{
         background:linear-gradient(#30e3cb,#27dabf);  
     }
 }
+@media only screen and (min-width: 429px){
+    .btn{
+        width: 35%;
+        height: 40px;
+        background:linear-gradient(#11CDD4,#159196);
+        border-radius: 8px;
+        font-family: 'Montserrat',sans-serif;
+        letter-spacing: 2px;
+        font-weight: bold;
+    }
+    .btn:hover{
+        background:linear-gradient(#30e3cb,#27dabf);  
+    }
+}
